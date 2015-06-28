@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>candy crush/1.png</file>
+        <file>candy crush/2.png</file>
+        <file>candy crush/3.png</file>
+        <file>candy crush/4.png</file>
+        <file>candy crush/5.png</file>
+        <file>candy crush/6.png</file>
+        <file>candy crush/7.png</file>
+        <file>candy crush/11.png</file>
+        <file>candy crush/12.png</file>
+        <file>candy crush/13.png</file>
+        <file>candy crush/14.png</file>
+        <file>candy crush/15.png</file>
+        <file>candy crush/16.png</file>
+        <file>candy crush/21.png</file>
+        <file>candy crush/22.png</file>
+        <file>candy crush/23.png</file>
+        <file>candy crush/24.png</file>
+        <file>candy crush/25.png</file>
+        <file>candy crush/26.png</file>
+    </qresource>
+</RCC>
