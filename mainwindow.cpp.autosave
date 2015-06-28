@@ -198,8 +198,8 @@ void MainWindow::checkgame()
 
             if(j==(game[a][b+1]%10))
             {
-              k[0]++;
-               k[1]=j;
+                k[0]++;
+                k[1]=j;
                 k[2]=a;
                 k[3]=b+1;
             }

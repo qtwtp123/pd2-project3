@@ -18,7 +18,6 @@ public:
     void checkgame();
     void delay(int);
     void changed();
-    void clean();
     void push();
 
 
